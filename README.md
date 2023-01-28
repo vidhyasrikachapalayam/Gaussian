@@ -91,7 +91,8 @@ for i in range(n):
     [i]),end=' ')
 
 ## Output
-![gaussian.png](./gaussian.png)
+
+![gaussian](https://user-images.githubusercontent.com/119477817/215280996-a0bd09d4-15b5-4c97-bfa9-5310a8cdbd0a.png)
 
 
 ## Result:
